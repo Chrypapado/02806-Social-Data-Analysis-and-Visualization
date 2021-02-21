@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -63,3 +64,7 @@ target/
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
+
+#Jupyter Notebooks
+Exercise3_1.ipynb
+Exercise3_2.ipynb
